@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: Law Business
+Theme URI: https://law-business.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Law Business Elementor Wordpress Theme version 2.0.0+ is a modern Elementor-based theme that includes a custom premium CMSMasters Elementor addon. Customize the whole website in few clicks with global settings and build templates for any layout, any design using the template builder. The theme comes with Services and Profiles custom post types.  With one-click demo importer this theme is ready to become a ready attorney website in a few simple clicks.
+Version: 2.2.1
+Tested up to: 6.6
+Requires PHP: 7.4
+License:
+License URI:
+Text Domain: law-business
+Domain Path: /theme-config/languages
+Copyright: cmsmasters 2024 / All Rights Reserved
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
